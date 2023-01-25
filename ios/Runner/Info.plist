@@ -26,6 +26,16 @@
 	<string>This app needs to access to camera and photo gallery to work</string>
 	<key>NSCameraUsageDescription</key>
 	<string>This app needs access to your camera to take photos.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs access to your location to list places.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>This app needs access to your location to list places.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This app needs access to your location to list places.</string>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+
+
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
